@@ -9,7 +9,7 @@ Compitable counties list : [County List](https://github.com/zekkontro/weather-ap
 Compatible with the package [geolocator](https://pub.dev/packages/geolocator)
 
 **Screenshots**
-![enter image description here](https://github.com/zekkontro/weathers/blob/main/Screenshot_1614954656.png?raw=true =250x)
+![enter image description here](https://github.com/zekkontro/weathers/blob/main/Screenshot_1614954656.png?raw=true)
 
 **Usage**
 Example Codes:
