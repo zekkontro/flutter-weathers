@@ -1,14 +1,19 @@
-# Weathers
+## Weathers
+Flutter location by county information Weather information plugin
 
-A new Flutter package project.
+Used API: https://weathersapi.herokuapp.com/
+NOTE: API coding by [zekkontro](https://github.com/zekkontro) - Python & Flask
 
-## Getting Started
+Compitable counties list : [County List](https://github.com/zekkontro/weather-api/blob/main/cities.json)
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+Compatible with the package [geolocator](https://pub.dev/packages/geolocator)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+**Screenshots**
+![enter image description here](https://github.com/zekkontro/weathers/blob/main/Screenshot_1614954656.png?raw=true =250x)
+
+**Usage**
+Example Codes:
+
+*Examples:* [*Example Codes*](https://github.com/zekkontro/weathers/tree/main/example)
+
+**LICENSE** :  [*License File*](https://github.com/zekkontro/weathers/blob/main/LICENSE)
